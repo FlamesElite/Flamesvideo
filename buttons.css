@@ -1,0 +1,16 @@
+button.yellow_button {
+	color: rgb(138, 89, 13);
+	background-image: linear-gradient(to bottom, rgba(255, 248, 178, 1.0), rgb(242, 210, 50, 1.0));
+	width: 120px;
+	height: 30px;
+	font-size: 14px;
+	font-weight: bold;
+}
+button.disabled_yellow_button {
+	color: rgb(69, 44, 66);
+	background-image: linear-gradient(to bottom, rgba(127, 124, 87, 1.0), rgb(121, 105, 25, 1.0));
+	width: 120px;
+	height: 30px;
+	font-size: 14px;
+	font-weight: bold;
+}
